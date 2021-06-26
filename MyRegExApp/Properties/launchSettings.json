@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MyRegExApp": {
+      "commandName": "Project",
+      "commandLineArgs": "Hello World"
+    }
+  }
+}
